@@ -4,21 +4,7 @@ This website holds all the latest information on tropical cyclones on SpookVoope
 
 ### Most Recent Forecast Update
 ```markdown
-Syntax highlighted code block
-
-# balls
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+No new tropical cyclones expected within the next week
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
